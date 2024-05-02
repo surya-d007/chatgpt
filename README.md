@@ -1,3 +1,10 @@
+!apt install git
+!git clone https://github.com/surya-d007/chatgpt.git
+
+
+
+
+
 s
 k
 -
